@@ -1,5 +1,5 @@
 # Hi there, I'm Jean Damascene Uwingeneye 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeandamas&label=Profile%20views&color=blue&style=flat" alt="jeandamas" /> </p>
 I'm a Full Stack Developer with a strong background in Data and Design. Welcome to my profile!
 
 - 🌐 Visit my website: [jean.rw](https://jean.rw/)
@@ -39,13 +39,10 @@ Let's connect and chat about all things tech or otherwise!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&labelColor=0077B5&style=for-the-badge)](https://linkedin.com/in/jean-damascene)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=behance&logoColor=white&labelColor=1769FF&style=for-the-badge)](https://www.behance.net/jeandamascene)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeandamas&theme=gruvbox-duo&mode=weekly&dates=7366EB&ring=EB5454)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeandamas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeandamas&show_icons=true&locale=en" alt="jeandamas's GitHub stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeandamas" alt="jeandamas's GitHub streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeandamas&layout=compact" alt="jeandamas's top languages">
-  <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeandamas" alt="jeandamas's trophies"></a>
 </div>
