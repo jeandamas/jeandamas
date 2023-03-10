@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C0392B&width=435&height=100&lines=Full+Stack+Development;Data+Analysis)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C0392B&width=435&height=100&lines=Full+Stack+Development;Data+Analysis;Design)
 
 # Hi there, I'm Jean Damascene Uwingeneye 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeandamas&label=Profile%20views&color=blue&style=flat" alt="jeandamas" /> </p>
@@ -37,9 +36,9 @@ Let's connect and chat about all things tech or otherwise!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&labelColor=0077B5&style=for-the-badge)](https://linkedin.com/in/jean-damascene)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=behance&logoColor=white&labelColor=1769FF&style=for-the-badge)](https://www.behance.net/jeandamascene)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeandamas&theme=gruvbox-duo&mode=weekly&dates=7366EB&ring=EB5454)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeandamas&theme=gruvbox-duo&mode=weekly&dates=7366EB&ring=EB5454)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeandamas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeandamas&layout=compact&theme=vision-friendly-dark)
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeandamas" alt="jeandamas's trophies"></a>
