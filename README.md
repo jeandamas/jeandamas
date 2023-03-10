@@ -37,9 +37,6 @@ Let's connect and chat about all things tech or otherwise!
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=behance&logoColor=white&labelColor=1769FF&style=for-the-badge)](https://www.behance.net/jeandamascene)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeandamas&theme=gruvbox-duo&mode=weekly&dates=7366EB&ring=EB5454)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeandamas&layout=compact&theme=vision-friendly-dark)
-
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeandamas" alt="jeandamas's trophies"></a>
-</div>
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeandamas&show_icons=true&theme=vision-friendly-dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeandamas&theme=monokai&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
