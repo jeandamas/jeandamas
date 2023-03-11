@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C0392B&width=435&height=100&lines=Full+Stack+Development;Data+Analysis;Design)
 
-# Hi there, I'm Jean Damascene Uwingeneye 👋
+## Hi there, I'm Jean Damascene Uwingeneye 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeandamas&label=Profile%20views&color=blue&style=flat" alt="jeandamas" /> </p>
 I'm a Full Stack Developer with a strong background in Data and Design. Welcome to my profile!
 
