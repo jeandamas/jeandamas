@@ -35,8 +35,7 @@ Let's connect and chat about all things tech or otherwise!
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&labelColor=E4405F&style=for-the-badge)](https://instagram.com/jean_damascene_u)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&labelColor=0077B5&style=for-the-badge)](https://linkedin.com/in/jean-damascene)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=behance&logoColor=white&labelColor=1769FF&style=for-the-badge)](https://www.behance.net/jeandamascene)
-
+<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeandamas&show_icons=true&theme=tokyonight)
+<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeandamas&theme=dark&mode=weekly&dates=7366EB&ring=EB5454)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeandamas&show_icons=true&theme=vision-friendly-dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeandamas&theme=monokai&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
