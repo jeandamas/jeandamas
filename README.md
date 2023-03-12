@@ -13,6 +13,7 @@ I'm a Full Stack Developer with a strong background in Data and Design. Welcome 
 I have experience with various technologies, tools and programming languages, including:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&labelColor=61DAFB&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&labelColor=339933&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&labelColor=3776AB&style=flat-square)
