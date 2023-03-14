@@ -2,7 +2,6 @@
 
 # Hi there, I'm Jean Damascene Uwingeneye 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeandamas&label=Profile%20views&color=blue&style=flat" alt="jeandamas" /> </p>
-I'm a Full Stack Developer with a strong background in Data and Design. Welcome to my profile!
 
 - 🌐 Visit my website: [jean.rw](https://jean.rw/)
 - 📧 Reach me via email: contact@jean.rw
