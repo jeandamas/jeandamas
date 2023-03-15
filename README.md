@@ -16,6 +16,7 @@ I have experience with various technologies, tools and programming languages, in
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&labelColor=61DAFB&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&labelColor=339933&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&labelColor=3776AB&style=flat-square)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&labelColor=21759B&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&labelColor=2496ED&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&labelColor=232F3E&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&labelColor=FFCA28&style=flat-square)
