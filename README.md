@@ -1,5 +1,10 @@
+<html>
+
+  <head>
+    <meta name="google-site-verification" content="gHTW5PWIg-tU5z0mLbT2cZ4mfKj5iXznKSq4WP_9aLA" />
+  </head>
+  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C0392B&width=435&height=100&lines=Full+Stack+Development;Data+Analysis;Design)
-<meta name="google-site-verification" content="gHTW5PWIg-tU5z0mLbT2cZ4mfKj5iXznKSq4WP_9aLA" />
 ## 💫 About Me: 
 ### Hi there, I'm Jean Damascene Uwingeneye 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeandamas&label=Profile%20views&color=blue&style=flat" alt="jeandamas" /> </p>
@@ -72,3 +77,4 @@ Let's connect and chat about all things tech or otherwise!
 
 
 
+</html>
