@@ -1,9 +1,3 @@
-<html>
-
-  <head>
-    <meta name="google-site-verification" content="gHTW5PWIg-tU5z0mLbT2cZ4mfKj5iXznKSq4WP_9aLA" />
-  </head>
-  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C0392B&width=435&height=100&lines=Full+Stack+Development;Data+Analysis;Design)
 ## 💫 About Me: 
 ### Hi there, I'm Jean Damascene Uwingeneye 👋
@@ -68,13 +62,9 @@ Let's connect and chat about all things tech or otherwise!
 <br/>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jeandamas&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeandamas&theme=radical&hide_border=true)<br/>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeandamas&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeandamas&theme=radical&hide_border=true)
+![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeandamas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-</html>
