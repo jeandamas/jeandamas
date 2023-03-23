@@ -1,7 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C0392B&width=435&height=100&lines=Full+Stack+Development;Data+Analysis;Design)
+
 ## 💫 About Me: 
 ### Hi there, I'm Jean Damascene Uwingeneye 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeandamas&label=Profile%20views&color=blue&style=flat" alt="jeandamas" /> </p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=jeandamas&label=Profile%20views&color=blue&style=flat" alt="jeandamas" /> 
+</p>
 
 - 🌐 Visit my website: [jean.rw](https://jean.rw/)
 - 📧 Reach me via email: contact@jean.rw
@@ -12,6 +16,7 @@
 - 🌱 I’m currently learning Prisma
 
 ### 💻 Skills and Technologies
+
 I have experience with various technologies, tools and programming languages, including:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&labelColor=181717&style=flat-square)
