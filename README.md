@@ -68,4 +68,5 @@ Let's connect and chat about all things tech or otherwise!
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeandamas&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeandamas&theme=radical&hide_border=true&mode=weekly)
+![jeandamas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeandamas&theme=radical&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeandamas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
