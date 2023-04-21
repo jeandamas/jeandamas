@@ -2,7 +2,6 @@
 
 ## 💫 About Me: 
 ### Hi there, I'm Jean Damascene Uwingeneye 👋
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jeandamas&label=Profile%20views&color=blue&style=flat" alt="jeandamas" /> 
 </p>
