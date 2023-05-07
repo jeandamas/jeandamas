@@ -9,7 +9,7 @@
 - 🌐 Visit my website: [jean.rw](https://jean.rw/)
 - 📧 Reach me via email: contact@jean.rw
 - 🎓 I hold a B.Sc. in Computer Science from the African Leadership University.
-- 🔭 I’m currently working on inline store API
+- 🔭 I’m currently working on online store API
 - 👯 I’m looking to collaborate on React Projects
 - 🤝 I’m looking for help with UX/UI
 - 🌱 I’m currently learning Prisma
