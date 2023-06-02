@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C0392B&width=435&height=100&lines=Full-Stack;Design;Cloud)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C0392B&width=435&height=100&lines=Hi;I am;Jean Damascene)
 
 ## 💫 About Me: 
 ### Hi there, I'm Jean Damascene Uwingeneye 👋
