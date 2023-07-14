@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on online store API
 - 👯 I’m looking to collaborate on React Projects
 - 🤝 I’m looking for help with UX/UI
-- 🌱 I’m currently learning Prisma
+- 🌱 I’m currently learning Firebase
 
 ### 💻 Tools and Languages
 
