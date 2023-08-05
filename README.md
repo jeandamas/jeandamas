@@ -11,7 +11,7 @@
 - 🤝 I’m looking for help with UX/UI
 - 🌱 I’m currently learning Firebase
 
-### 💻 Tools and Languages
+### 💻 Tools and Languages:
 
 I have experience with various technologies, tools and programming languages, including:
 
