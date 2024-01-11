@@ -54,4 +54,4 @@ Let's connect and chat about all things tech or otherwise!
 <br/>
 
 ### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeandamas&theme=radical&hide_border=true&mode=weekly)
+![My github stats](https://jeandamas-github-stats.vercel.app/api?username=jeandamas&layout=compact&theme=synthwave&show_icons=true)
